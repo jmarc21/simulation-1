@@ -1,0 +1,32 @@
+.home-list{
+    display: inline;
+    text-align: center;
+}
+/* 22C-2 */
+.header{
+    display: flex;
+    width: 100%;
+    height: 80px;
+    /* 23E */
+    background-color: #ab2a19;
+}
+.shelfA{
+    
+    background-color: #d34735;
+    text-decoration: none;
+}
+.shelfB{
+    background-color: #d34735;
+    text-decoration: none;
+    
+}
+.shelfC{
+    background-color: #d34735;
+    text-decoration: none;
+    
+}
+.shelfD{
+    background-color: #d34735;
+    text-decoration: none;
+    
+}

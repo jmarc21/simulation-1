@@ -11,7 +11,7 @@ class App extends Component {
       //42F
       //42G
       <Switch>                
-                              {/* 42H */}
+            {/* 54G                  42H */}
         <Route exact path='/' component={Home}/>
         <Route path='/shelfA' component={ShelfA}/>
         <Route path='/shlfAB1' component={shlfAB1}/>
